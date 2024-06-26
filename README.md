@@ -3,7 +3,7 @@
 
     ## "npm install"
 
-2. JSON data STRUCTURE :
+# JSON data STRUCTURE :
 [
   { "timestamp": "2023-01-01T00:00:00Z", "value": 10 },
   { "timestamp": "2023-01-02T00:00:00Z", "value": 12 },
@@ -11,7 +11,7 @@
   ...
 ]
 
-3. Chart Implementation :
+# Chart Implementation :
 
 Display the chart using the selected library.
 Implement:
@@ -19,7 +19,7 @@ Timeframe breakdown (daily, weekly, monthly)
 Timeframe zooming
 Click event handlers for detailed data display
 
-4. Functionality:
+# Functionality:
 
 Correct integration of the charting library.
 Smooth timeframe breakdown and zooming.
